@@ -1,1 +1,1 @@
-# -amzmbotmfa.xyz
+# -amzbotmfa.xyz
